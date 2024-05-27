@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "ks-front-panel-rescue")(type "Legacy")(uri "${KIPRJMOD}/ks front panel-rescue.lib")(options "")(descr ""))
+  (lib (name "encodeur-ks")(type "Legacy")(uri "${KIPRJMOD}/kicad/encodeur ks.lib")(options "")(descr ""))
+)

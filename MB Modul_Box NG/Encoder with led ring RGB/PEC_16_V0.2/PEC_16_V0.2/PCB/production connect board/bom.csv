@@ -1,0 +1,6 @@
+Designator,Footprint,Quantity,Value,LCSC Part #
+"H14, H16, H18, H20",MountingHole_3.2mm_M3,4,MountingHole,
+"J11, J12, J13",IDC-Header_2x05_P2.54mm_Vertical_ksr_dIN,3,sin_in,
+"J30, J31, J32, J33",PinHeader_1x06_P2.54mm_Vertical,4,Conn_01x06_Pin,
+"J34, J35",PinHeader_1x03_P2.54mm_Vertical,2,Conn_01x06_Pin,
+"J44, J45",IDC-Header_2x05_P2.54mm_Vertical,2,IDC-Header_2x05_P2.54mm_Vertical,

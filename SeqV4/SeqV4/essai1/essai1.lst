@@ -1,0 +1,34 @@
+eeschema (2013-07-07 BZR 4022)-stable  >> Creation date: 19/06/2016 10:23:56
+#Cmp ( ordre = Référence )
+| J1         STM32F4_DISCOVERY_HEADER
+| J5A1       DIL10       
+| P1         DIL10       
+| P2         DIL10       
+| P3         DIL10       
+| P4         DIL10       
+| P5         DIL10       
+| P6         DIL10       
+| P7         DIL10       
+| P8         DIL10       
+| P9         DIL10       
+| U1         74HCT541_PWR
+| U2         74HC595     
+#End Cmp
+
+#Cmp ( ordre = Valeur )
+| STM32F4_DISCOVERY_HEADER J1        
+| DIL10        J5A1      
+| DIL10        P1        
+| DIL10        P2        
+| DIL10        P3        
+| DIL10        P4        
+| DIL10        P5        
+| DIL10        P6        
+| DIL10        P7        
+| DIL10        P8        
+| DIL10        P9        
+| 74HCT541_PWR U1        
+| 74HC595      U2        
+#End Cmp
+
+#End List

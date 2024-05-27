@@ -1,0 +1,13 @@
+Designator,Footprint,Quantity,Value,LCSC Part #
+C140,CP_Radial_D6.3mm_P2.50mm,1,100UF,
+"C141, C142, C143",0603,3,100nf,
+"H13, H14, H15, H16, H17, H18, H19, H20",MountingHole_3.2mm_M3,8,MountingHole,
+"IC1, IC2, IC3",SOIC-16_3.9x9.9mm_P1.27mm,3,74HC165,
+"J1, J2",IDC-Header_2x05_P2.54mm_Vertical,2,sin_in,
+"J14, J15, J34, J35",PinHeader_1x03_P2.54mm_Vertical,4,Conn_01x06_Pin,
+"J20, J21, J22, J23",PinSocket_1x06_P2.54mm_Vertical,4,Conn_01x06_Socket,
+"J24, J25",PinSocket_1x03_P2.54mm_Vertical,2,Conn_01x06_Socket,
+"J30, J31, J32, J33",PinHeader_1x06_P2.54mm_Vertical,4,Conn_01x06_Pin,
+"J44, J45",IDC-Header_2x05_P2.54mm_Vertical,2,IDC-Header_2x05_P2.54mm_Vertical,
+"R1, R10, R11, R12, R13, R14, R15, R16, R17, R18, R19, R2, R20, R21, R22, R23, R24, R25, R26, R27, R3, R4, R5, R6, R7, R8, R9",0603,27,10k,C1035
+"SW1, SW2, SW3, SW4, SW5, SW6, SW7, SW8",PEC164120FS0012,8,PEC16-4XXXF-SXXXX,

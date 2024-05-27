@@ -1,0 +1,6 @@
+enc x2
+fad x2
+pad x2
+control x1
+Bpl x2
+pot x6

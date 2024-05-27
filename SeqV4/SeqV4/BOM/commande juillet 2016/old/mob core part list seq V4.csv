@@ -1,0 +1,65 @@
+http://www.ucapps.de/midibox_seq_manual.html;Ref mouser;qty;;ref reichlt
+CORE seq v4;;;;
+| Diode 1N4148 | 1 |  | 0,02 | 0,02 |;78-1N4148;1;Diode 1N4148 ;1N 4148
+| Transistor BC337 | 1 | BC 337-16 | 0,06 | 0,06 |;821-BC337-16-A1;1; Transistor BC337 ;BC 337-16 
+| 74HC595 | 1 | 74HC 595 | 0,30 | 0,30 |;595-CD74HC595E;1;74HC595;74HC595
+| IC-Socket pour 74HC595 | 1 | GS 16 | 0,04 | 0,04 |;571-1-2199298-4;1;IC-Socket pour 74HC595 ;GS 16 
+| 74HCT541 | 1 | 74HCT 541 | 0,20 | 0,20 |;595-SN74HCT541N;1;74HCT541 ;74HCT541 
+| IC-Socket pour 74HCT541 | 1 | GS 20 | 0,04 | 0,04 |;571-1-2199298-6;1;IC-Socket pour 74HCT541;GS 20 
+| C‚ramique Cap 100 nF | 2 | Z5u-2,5 100n | 0,06 | 0,12 |;80-C412C104K5R;2;C‚ramique Cap 100 nF;Z5u-2,5 100n
+| Resistor 10 kOhm | 1 | 1 / 4W 10k | 0,03 | 0,03 |;291-10K-RC;1;Resistor 10 kOhm;1 / 4W 10k 
+| Resistor 1 kOhm | 2 | 1 / 4W 1.0k | 0,03 | 0,06 |;291-1K-RC;2;Resistor 1 kOhm;1 / 4W 1.0k
+| Resistor 2.2 kOhm | 4 | 1 / 4W 2.2k | 0,03 | 0,12 |;603-CFR-25JR-522K2;4; Resistor 2.2 kOhm;1 / 4W 2.2k
+| Resistor R‚seau 4 * 1 kOhm (1 broche commune) | 1 | SIL 5-4 1,0K | 0,08 | 0,08 |;;1;Resistor R‚seau 4 * 1 kOhm (1 broche commune);SIL 5-4 1,0K
+| TrimmPot 10 k | 2 | PT 6-L 10K | 0,22 | 0,44 |;;2;TrimmPot 10 k; PT 6-L 10K
+"| 2x5 DIL tˆtes (en allemand: ""Wannenstecker"") | 10 | WSL 10G | 0,08 | 0,80 |";571-1658621-1;10;" 2x5 DIL tˆtes (en allemand: ""Wannenstecker"")";WSL 10G
+"| 2x5 DIL Sockets (allemand: ""Pfostenbuchse"") | 10 | PFL 10 | 0,08 | 0,80 |";571-5103309-1;10;;PFL 10 
+"| 2x8 DIL tˆtes (en allemand: ""Wannenstecker"") | 2 | WSL 16G | 0,07 | 0,14 |";571-5103308-3;2;;WSL 16G
+"| 2x8 DIL Sockets (allemand: ""Pfostenbuchse"") | 2 | PFL 16 | 0,09 | 0,18 |";1658622-3;2;;PFL 16 
+| 1 rang‚e SIL-tˆtes (9 broches requis) | 1 | SL 1X40G 2,54 | 0,18 | 0,18 |;;1;;SL 1X40G 2,54
+| 2 rang‚es SIL-tˆtes (2 2x25 broches n‚cessaires) | 2 | BL 2X25G 2,54 | 1,40 | 2,80 |;;2;;BL 2X25G 2,54
+| Jumpers | 2 | JUMPER 2,54GL RT | 0,05 | 0,10 |;;2;Jumpers ;JUMPER 2,54GL RT
+| cƒble ruban 3 mŠtres | 3 | AWG 28-16G | 0,66 | 1,98 |;;3;;AWG 28-16G
+| Micro-USB B Cƒble de connexion USB-MIDI | 1 | AK 676-AB2 | 2.10 | 2.10 |;;1;; AK 676-AB2
+;;;;
+STM32F4DISCOVERY;511-STM32F407G-DISC1;;STM32F4DISCOVERY;
+;;;;
+MIDI IO   ;;;;
+| Optocoupleur 6N138 | 2 | 6N 138 | 0,50 | 1,00 |;782-6N138;2;;
+| IC-Sockets pour Optocoupler | 2 | GS 8 | 0,04 | 0,08 |;571-1-2199298-2 ;2;;
+| Diode 1N4148 | 2 | 1N 4148 | 0,02 | 0,04 |;78-1N4148;2;;
+| 74HC00 | 2 | 74HC 00 | 0,19 | 0,38 |;;2;;
+| IC-Socket pour 74HC 00 | 2 | GS 14 | 0,04 | 0,08 |;;2;;
+| C‚ramique Cap 100 nF | 2 | Z5u-2,5 100n | 0,06 | 0,12 |;80-C412C104K5R;2;;
+| Capacitor Polarised 10 uF | 4 | rad 10/35 | 0,04 | 0,12 |;;4;;
+| Resistor 100 kOhm | 6 | 1 / 4W 100k | 0,03 | 0,24 |;;6;;
+| Resistor 4.7 kOhm | 2 | 1 / 4W 4.7k | 0,03 | 0,06 |;;2;;
+| Resistor 1 kOhm | 2 | 1 / 4W 1.0k | 0,03 | 0,06 |;;2;;
+| Resistor 220 Ohm | 10 | 1 / 4W 220 | 0,03 | 0,30 |;;10;;
+| Prises MIDI pour montage sur circuit imprim‚ | 4 | PSAM 5S | 0,60 | 2,40 |;;4;;
+"| 2x5 DIL tˆtes (en allemand: ""Wannenstecker"") | 2 | WSL 10G | 0,08 | 0,16 |";;2;;
+"| 2x5 DIL Sockets (allemand: ""Pfostenbuchse"") | 2 | PFL 10 | 0,08 | 0,16 |";;2;;
+| Yellow Rx LED | 2 | LED 3MM ST GE | 0,08 | 0,16 |;;2;;
+| Red LED Tx | 2 | LED 3MM ST RT | 0,08 | 0,16 |;;2;;
+;;;;
+front panel;;;;
+LCD 2x40 ;;2;;
+;;;;
+P401 knob;;16;P401 knob;
+CK2160 Datawheel knob;;1;CK2160 Datawheel knob;
+Rotary Encoder;;17;Rotary Encoder;
+Switch cap;;58;Switch cap;
+Switch;;58;Switch;
+LED red 5mm;;1;LED red 5mm;
+LED green 3mm;;27;LED green 3mm;
+Bicolor LEDs;;16;Bicolor LEDs;
+Ceramic Cap 100nF;;8;Ceramic Cap 100nF;
+1N4148;78-1N4148;58;1N4148;
+10k 6 Pin res. network;;12;10k 6 Pin res. network;
+2ž5 dual row header;;2;2ž5 dual row header;
+74HC165;;6;74HC165;
+74HC595;;2;74HC595;
+16-pin IC socket;;8;16-pin IC socket;
+220? resistor;;8;220? resistor;
+470? resistor;;2;470? resistor;
+1k? resistor;;2;1k? resistor;

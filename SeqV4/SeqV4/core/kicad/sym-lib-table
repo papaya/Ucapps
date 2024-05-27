@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name "core-rescue")(type "Legacy")(uri "${KIPRJMOD}/core-rescue.lib")(options "")(descr ""))
+  (lib (name "midibox")(type "Legacy")(uri "D:/00_Samples_VST_FLP/DIY/SeqV4/SeqV4/librairie kicad/lib/midibox.lib")(options "")(descr ""))
+  (lib (name "special")(type "Legacy")(uri "D:/00_Samples_VST_FLP/DIY/SeqV4/SeqV4/librairie kicad/lib/special.lib")(options "")(descr ""))
+  (lib (name "w_connectors")(type "Legacy")(uri "D:/00_Samples_VST_FLP/DIY/SeqV4/SeqV4/librairie kicad/lib/w_connectors.lib")(options "")(descr ""))
+  (lib (name "Connectors")(type "Legacy")(uri "D:/00_Samples_VST_FLP/DIY/SeqV4/SeqV4/librairie kicad/lib/Connectors.lib")(options "")(descr ""))
+)

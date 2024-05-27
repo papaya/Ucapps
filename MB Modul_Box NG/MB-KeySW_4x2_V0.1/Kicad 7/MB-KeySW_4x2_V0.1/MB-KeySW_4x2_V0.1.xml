@@ -1,0 +1,806 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>D:\00_Samples_VST_FLP\DIY\MODULBOX\2023\KICAD 7\Pad RGB\Kicad\Pad\Pad.kicad_sch</source>
+    <date>19/05/2023 10:06:10</date>
+    <tool>Eeschema (7.0.0)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Pad.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C501">
+      <value>100nf</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Champ4">CL05B104KO5NNNC</field>
+        <field name="JLCPCB Part #">C1525</field>
+      </fields>
+      <libsource lib="ksir_2023" part="C-100nf" description="Unpolarized capacitor"/>
+      <property name="Champ4" value="CL05B104KO5NNNC"/>
+      <property name="JLCPCB Part #" value="C1525"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Pad.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>38b49b53-9692-406e-870b-5166bce96ee4</tstamps>
+    </comp>
+    <comp ref="C502">
+      <value>100nf</value>
+      <footprint>ksir 2022:CAPC1005X55N</footprint>
+      <fields>
+        <field name="Champ4">CL05B104KO5NNNC</field>
+        <field name="JLCPCB Part #">C1525</field>
+      </fields>
+      <libsource lib="ksir_2023" part="C-100nf" description="Unpolarized capacitor"/>
+      <property name="Champ4" value="CL05B104KO5NNNC"/>
+      <property name="JLCPCB Part #" value="C1525"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Pad.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3584a7fc-838e-49fd-a9c4-95261f0072cc</tstamps>
+    </comp>
+    <comp ref="C503">
+      <value>100nf</value>
+      <footprint>ksir 2022:CAPC1005X55N</footprint>
+      <fields>
+        <field name="Champ4">CL05B104KO5NNNC</field>
+        <field name="JLCPCB Part #">C1525</field>
+      </fields>
+      <libsource lib="ksir_2023" part="C-100nf" description="Unpolarized capacitor"/>
+      <property name="Champ4" value="CL05B104KO5NNNC"/>
+      <property name="JLCPCB Part #" value="C1525"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Pad.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3eef1a8b-25eb-46da-8c16-200e2703f4c3</tstamps>
+    </comp>
+    <comp ref="C504">
+      <value>100nf</value>
+      <footprint>ksir 2022:CAPC1005X55N</footprint>
+      <fields>
+        <field name="Champ4">CL05B104KO5NNNC</field>
+        <field name="JLCPCB Part #">C1525</field>
+      </fields>
+      <libsource lib="ksir_2023" part="C-100nf" description="Unpolarized capacitor"/>
+      <property name="Champ4" value="CL05B104KO5NNNC"/>
+      <property name="JLCPCB Part #" value="C1525"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Pad.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e072716d-9109-4fe1-87c1-6816ca7a5530</tstamps>
+    </comp>
+    <comp ref="C505">
+      <value>100nf</value>
+      <footprint>ksir 2022:CAPC1005X55N</footprint>
+      <fields>
+        <field name="Champ4">CL05B104KO5NNNC</field>
+        <field name="JLCPCB Part #">C1525</field>
+      </fields>
+      <libsource lib="ksir_2023" part="C-100nf" description="Unpolarized capacitor"/>
+      <property name="Champ4" value="CL05B104KO5NNNC"/>
+      <property name="JLCPCB Part #" value="C1525"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Pad.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7e15f15c-0db9-47f0-a355-9e520d531e4d</tstamps>
+    </comp>
+    <comp ref="C506">
+      <value>100nf</value>
+      <footprint>ksir 2022:CAPC1005X55N</footprint>
+      <fields>
+        <field name="Champ4">CL05B104KO5NNNC</field>
+        <field name="JLCPCB Part #">C1525</field>
+      </fields>
+      <libsource lib="ksir_2023" part="C-100nf" description="Unpolarized capacitor"/>
+      <property name="Champ4" value="CL05B104KO5NNNC"/>
+      <property name="JLCPCB Part #" value="C1525"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Pad.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d6f8c54f-ea52-45fc-a21d-9cfa08e4d4cd</tstamps>
+    </comp>
+    <comp ref="C507">
+      <value>100nf</value>
+      <footprint>ksir 2022:CAPC1005X55N</footprint>
+      <fields>
+        <field name="Champ4">CL05B104KO5NNNC</field>
+        <field name="JLCPCB Part #">C1525</field>
+      </fields>
+      <libsource lib="ksir_2023" part="C-100nf" description="Unpolarized capacitor"/>
+      <property name="Champ4" value="CL05B104KO5NNNC"/>
+      <property name="JLCPCB Part #" value="C1525"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Pad.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f2832cd2-7946-4ddc-b53a-724b1d4bedc9</tstamps>
+    </comp>
+    <comp ref="C508">
+      <value>100nf</value>
+      <footprint>ksir 2022:CAPC1005X55N</footprint>
+      <fields>
+        <field name="Champ4">CL05B104KO5NNNC</field>
+        <field name="JLCPCB Part #">C1525</field>
+      </fields>
+      <libsource lib="ksir_2023" part="C-100nf" description="Unpolarized capacitor"/>
+      <property name="Champ4" value="CL05B104KO5NNNC"/>
+      <property name="JLCPCB Part #" value="C1525"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Pad.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5ef61887-1362-4e08-a69a-256548e5e575</tstamps>
+    </comp>
+    <comp ref="D501">
+      <value>WS2812-2020</value>
+      <footprint>ksir 2022:LED_WS2812B-2020_PLCC4_2.0x2.0mm</footprint>
+      <fields>
+        <field name="JLCPCB Part #">C2976072</field>
+        <field name="MANUFACTURER">Worldsemi</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+      </fields>
+      <libsource lib="ksir_2023" part="WS2812-2020_1" description=""/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="MANUFACTURER" value="Worldsemi"/>
+      <property name="JLCPCB Part #" value="C2976072"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bcfd152c-acc3-46e8-b8da-7ebef643aaf3</tstamps>
+    </comp>
+    <comp ref="D502">
+      <value>WS2812-2020</value>
+      <footprint>ksir 2022:LED_WS2812B-2020_PLCC4_2.0x2.0mm</footprint>
+      <fields>
+        <field name="JLCPCB Part #">C2976072</field>
+        <field name="MANUFACTURER">Worldsemi</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+      </fields>
+      <libsource lib="ksir_2023" part="WS2812-2020_1" description=""/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="MANUFACTURER" value="Worldsemi"/>
+      <property name="JLCPCB Part #" value="C2976072"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c0e07c5a-5c40-4e3c-8b73-d5b5a998b0c1</tstamps>
+    </comp>
+    <comp ref="D503">
+      <value>WS2812-2020</value>
+      <footprint>ksir 2022:LED_WS2812B-2020_PLCC4_2.0x2.0mm</footprint>
+      <fields>
+        <field name="JLCPCB Part #">C2976072</field>
+        <field name="MANUFACTURER">Worldsemi</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+      </fields>
+      <libsource lib="ksir_2023" part="WS2812-2020_1" description=""/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="MANUFACTURER" value="Worldsemi"/>
+      <property name="JLCPCB Part #" value="C2976072"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1afdfb5e-5008-4f85-8c35-1ae939ef35ec</tstamps>
+    </comp>
+    <comp ref="D504">
+      <value>WS2812-2020</value>
+      <footprint>ksir 2022:LED_WS2812B-2020_PLCC4_2.0x2.0mm</footprint>
+      <fields>
+        <field name="JLCPCB Part #">C2976072</field>
+        <field name="MANUFACTURER">Worldsemi</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+      </fields>
+      <libsource lib="ksir_2023" part="WS2812-2020_1" description=""/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="MANUFACTURER" value="Worldsemi"/>
+      <property name="JLCPCB Part #" value="C2976072"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d27bda69-9eb2-4615-b9d8-f146876f1f4e</tstamps>
+    </comp>
+    <comp ref="D505">
+      <value>WS2812-2020</value>
+      <footprint>ksir 2022:LED_WS2812B-2020_PLCC4_2.0x2.0mm</footprint>
+      <fields>
+        <field name="JLCPCB Part #">C2976072</field>
+        <field name="MANUFACTURER">Worldsemi</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+      </fields>
+      <libsource lib="ksir_2023" part="WS2812-2020_1" description=""/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="MANUFACTURER" value="Worldsemi"/>
+      <property name="JLCPCB Part #" value="C2976072"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>30d94535-8c01-4bca-ad5b-011a82d7ba23</tstamps>
+    </comp>
+    <comp ref="D506">
+      <value>WS2812-2020</value>
+      <footprint>ksir 2022:LED_WS2812B-2020_PLCC4_2.0x2.0mm</footprint>
+      <fields>
+        <field name="JLCPCB Part #">C2976072</field>
+        <field name="MANUFACTURER">Worldsemi</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+      </fields>
+      <libsource lib="ksir_2023" part="WS2812-2020_1" description=""/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="MANUFACTURER" value="Worldsemi"/>
+      <property name="JLCPCB Part #" value="C2976072"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>aafd3960-ed83-4995-ba0a-1005f882a534</tstamps>
+    </comp>
+    <comp ref="D507">
+      <value>WS2812-2020</value>
+      <footprint>ksir 2022:LED_WS2812B-2020_PLCC4_2.0x2.0mm</footprint>
+      <fields>
+        <field name="JLCPCB Part #">C2976072</field>
+        <field name="MANUFACTURER">Worldsemi</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+      </fields>
+      <libsource lib="ksir_2023" part="WS2812-2020_1" description=""/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="MANUFACTURER" value="Worldsemi"/>
+      <property name="JLCPCB Part #" value="C2976072"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1692cbe6-af7a-43e2-9581-997d34e76d4d</tstamps>
+    </comp>
+    <comp ref="D508">
+      <value>WS2812-2020</value>
+      <footprint>ksir 2022:LED_WS2812B-2020_PLCC4_2.0x2.0mm</footprint>
+      <fields>
+        <field name="JLCPCB Part #">C2976072</field>
+        <field name="MANUFACTURER">Worldsemi</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+      </fields>
+      <libsource lib="ksir_2023" part="WS2812-2020_1" description=""/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="MANUFACTURER" value="Worldsemi"/>
+      <property name="JLCPCB Part #" value="C2976072"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>35ba8ebe-9907-4ed3-aa17-62f39fee0a53</tstamps>
+    </comp>
+    <comp ref="H1">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_2.2mm_M2</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Pad.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole without connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ee1e8e87-9e5d-4259-9830-5111acad36d3</tstamps>
+    </comp>
+    <comp ref="H2">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_2.2mm_M2</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Pad.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole without connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3ded8e92-87c9-430c-bc94-fb80444b611d</tstamps>
+    </comp>
+    <comp ref="H3">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_2.2mm_M2</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Pad.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole without connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5e950e91-489f-41e9-8744-d3c8176d2a94</tstamps>
+    </comp>
+    <comp ref="H4">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_2.2mm_M2</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Pad.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole without connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9454912d-93af-4bb4-aed3-f4d73087401c</tstamps>
+    </comp>
+    <comp ref="H5">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_2.2mm_M2</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Pad.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole without connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2c682b39-be82-49a4-874a-96cd8e8da5fb</tstamps>
+    </comp>
+    <comp ref="H6">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_2.2mm_M2</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Pad.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole without connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6ca12820-c3d7-4089-b2e4-1ee623f4aab6</tstamps>
+    </comp>
+    <comp ref="H7">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_2.2mm_M2</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Pad.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole without connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5f0436f9-bc5c-440f-83a4-6dec0d23c63a</tstamps>
+    </comp>
+    <comp ref="H8">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_2.2mm_M2</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Pad.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole without connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4b8e5cf4-b1c6-4153-8f94-c51b27e0e2f1</tstamps>
+    </comp>
+    <comp ref="H11">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3mm</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Pad.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole without connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>888cff46-9ee0-41fa-ba39-bd8d990a71c7</tstamps>
+    </comp>
+    <comp ref="H12">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3mm</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Pad.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole without connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>541b70b6-9df8-4a07-93a4-43ebfe3575c3</tstamps>
+    </comp>
+    <comp ref="H13">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3mm</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Pad.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole without connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e8e2687a-0d75-4bec-95f4-55b090610bc7</tstamps>
+    </comp>
+    <comp ref="H14">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3mm</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Pad.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole without connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9dd50944-7dbd-4874-bdbf-96c214dd117c</tstamps>
+    </comp>
+    <comp ref="H15">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3mm</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Pad.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole without connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6574c745-356c-43ea-968d-30f2a6c5c883</tstamps>
+    </comp>
+    <comp ref="H16">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3mm</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Pad.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole without connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ce26a21f-3a9b-4bb3-b31a-885c8d1ab80b</tstamps>
+    </comp>
+    <comp ref="H17">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3mm</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Pad.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole without connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>451c5691-5347-4ae0-975c-1ece5c334bb2</tstamps>
+    </comp>
+    <comp ref="H18">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3mm</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Pad.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole without connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ac8b5ce5-63ea-4363-a2fd-6e5903f15970</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>IDC-Header_2x05_P2.54mm_Vertical</value>
+      <footprint>Connector_IDC:IDC-Header_2x05_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="Champ4">Switch</field>
+      </fields>
+      <libsource lib="ksir_2023" part="IDC-Header_2x05_P2.54mm_Vertical" description=""/>
+      <property name="Champ4" value="Switch"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cd47c39e-150a-40d7-aab2-b1fcc111f479</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>IDC-Header_2x05_P2.54mm_Vertical</value>
+      <footprint>Connector_IDC:IDC-Header_2x05_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="Champ4">LED RGB</field>
+        <field name="Champ5">Connect to J4B.SC</field>
+      </fields>
+      <libsource lib="" part="IDC-Header_2x05_P2.54mm_Vertical_1" description=""/>
+      <property name="Champ4" value="LED RGB"/>
+      <property name="Champ5" value="Connect to J4B.SC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8b696c7a-8fa1-441e-99fa-2379c82b91c8</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>IDC-Header_2x05_P2.54mm_Vertical</value>
+      <footprint>Connector_IDC:IDC-Header_2x05_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="Champ4">LED RGB</field>
+        <field name="Champ5">Connect to next rgb</field>
+      </fields>
+      <libsource lib="" part="IDC-Header_2x05_P2.54mm_Vertical_1" description=""/>
+      <property name="Champ4" value="LED RGB"/>
+      <property name="Champ5" value="Connect to next rgb"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f497663d-defb-413f-b334-c62c9e40f230</tstamps>
+    </comp>
+    <comp ref="Sw1">
+      <value>Pad_x_4</value>
+      <footprint>ksir 2022:Pad x 4</footprint>
+      <libsource lib="ksir_2023" part="Pad_x_4" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0a1bb77f-6fb2-41b2-b1d4-3169631287ab</tstamps>
+    </comp>
+    <comp ref="Sw2">
+      <value>Pad_x_4</value>
+      <footprint>ksir 2022:Pad x 4</footprint>
+      <libsource lib="ksir_2023" part="Pad_x_4" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>926b503a-4ed5-4bfc-b63e-6d80202fa00f</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="" part="IDC-Header_2x05_P2.54mm_Vertical_1">
+      <fields>
+        <field name="Reference">J2</field>
+        <field name="Value">IDC-Header_2x05_P2.54mm_Vertical_1</field>
+        <field name="Footprint">Connector_IDC:IDC-Header_2x05_P2.54mm_Vertical</field>
+        <field name="Champ4">LED RGB</field>
+        <field name="Champ5">Connect to J4B.SC</field>
+      </fields>
+      <pins>
+        <pin num="1" name="vss" type="passive"/>
+        <pin num="2" name="VS" type="passive"/>
+        <pin num="3" name="VS" type="passive"/>
+        <pin num="4" name="VS" type="passive"/>
+        <pin num="5" name="VS" type="passive"/>
+        <pin num="6" name="SC" type="passive"/>
+        <pin num="7" name="VS" type="passive"/>
+        <pin num="8" name="SD" type="passive"/>
+        <pin num="9" name="VS" type="passive"/>
+        <pin num="10" name="VD" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole">
+      <description>Mounting Hole without connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole</field>
+        <field name="Datasheet">~</field>
+      </fields>
+    </libpart>
+    <libpart lib="ksir_2023" part="C-100nf">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C1</field>
+        <field name="Value">100nf</field>
+        <field name="Footprint">ksir 2022:CAPC1005X55N</field>
+        <field name="Datasheet">~</field>
+        <field name="Champ4">CL05B104KO5NNNC</field>
+        <field name="JLCPCB Part #">C1525</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="ksir_2023" part="IDC-Header_2x05_P2.54mm_Vertical">
+      <fields>
+        <field name="Reference">J?</field>
+        <field name="Value">IDC-Header_2x05_P2.54mm_Vertical</field>
+        <field name="Footprint">Connector_IDC:IDC-Header_2x05_P2.54mm_Vertical</field>
+      </fields>
+      <pins>
+        <pin num="1" name="vss" type="passive"/>
+        <pin num="2" name="vd" type="passive"/>
+        <pin num="3" name="D7" type="passive"/>
+        <pin num="4" name="D6" type="passive"/>
+        <pin num="5" name="D5" type="passive"/>
+        <pin num="6" name="D4" type="passive"/>
+        <pin num="7" name="D3" type="passive"/>
+        <pin num="8" name="D2" type="passive"/>
+        <pin num="9" name="D1" type="passive"/>
+        <pin num="10" name="D0" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="ksir_2023" part="Pad_x_4">
+      <fields>
+        <field name="Reference">Sw</field>
+        <field name="Value">Pad_x_4</field>
+        <field name="Footprint">ksir 2022:Pad x 4</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+        <pin num="5" name="5" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="ksir_2023" part="WS2812-2020_1">
+      <fields>
+        <field name="Reference">D1</field>
+        <field name="Value">WS2812-2020</field>
+        <field name="Footprint">ksir 2022:LED_WS2812B-2020_PLCC4_2.0x2.0mm</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="MANUFACTURER">Worldsemi</field>
+        <field name="JLCPCB Part #">C2976072</field>
+      </fields>
+      <pins>
+        <pin num="1" name="DO" type="output"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="DI" type="input"/>
+        <pin num="4" name="VDD" type="power_in"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Mechanical">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Mechanical.kicad_sym</uri>
+    </library>
+    <library logical="ksir_2023">
+      <uri>D:/00_Samples_VST_FLP/DIY/MODULBOX/2023/Lib_kicad/ksir_2023.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+5V">
+      <node ref="C501" pin="2" pintype="passive"/>
+      <node ref="C502" pin="2" pintype="passive"/>
+      <node ref="C503" pin="2" pintype="passive"/>
+      <node ref="C504" pin="2" pintype="passive"/>
+      <node ref="C505" pin="2" pintype="passive"/>
+      <node ref="C506" pin="2" pintype="passive"/>
+      <node ref="C507" pin="2" pintype="passive"/>
+      <node ref="C508" pin="2" pintype="passive"/>
+      <node ref="D501" pin="4" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D502" pin="4" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D503" pin="4" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D504" pin="4" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D505" pin="4" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D506" pin="4" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D507" pin="4" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D508" pin="4" pinfunction="VDD" pintype="power_in"/>
+      <node ref="J2" pin="10" pinfunction="VD" pintype="passive"/>
+      <node ref="J3" pin="10" pinfunction="VD" pintype="passive"/>
+    </net>
+    <net code="2" name="GND">
+      <node ref="C501" pin="1" pintype="passive"/>
+      <node ref="C502" pin="1" pintype="passive"/>
+      <node ref="C503" pin="1" pintype="passive"/>
+      <node ref="C504" pin="1" pintype="passive"/>
+      <node ref="C505" pin="1" pintype="passive"/>
+      <node ref="C506" pin="1" pintype="passive"/>
+      <node ref="C507" pin="1" pintype="passive"/>
+      <node ref="C508" pin="1" pintype="passive"/>
+      <node ref="D501" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="D502" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="D503" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="D504" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="D505" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="D506" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="D507" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="D508" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="J1" pin="1" pinfunction="vss" pintype="passive"/>
+      <node ref="J2" pin="1" pinfunction="vss" pintype="passive"/>
+      <node ref="J3" pin="1" pinfunction="vss" pintype="passive"/>
+      <node ref="Sw1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="Sw2" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="3" name="Net-(D501-DI)">
+      <node ref="D501" pin="3" pinfunction="DI" pintype="input"/>
+      <node ref="J2" pin="6" pinfunction="SC" pintype="passive"/>
+    </net>
+    <net code="4" name="Net-(D501-DO)">
+      <node ref="D501" pin="1" pinfunction="DO" pintype="output"/>
+      <node ref="D502" pin="3" pinfunction="DI" pintype="input"/>
+    </net>
+    <net code="5" name="Net-(D502-DO)">
+      <node ref="D502" pin="1" pinfunction="DO" pintype="output"/>
+      <node ref="D503" pin="3" pinfunction="DI" pintype="input"/>
+    </net>
+    <net code="6" name="Net-(D503-DO)">
+      <node ref="D503" pin="1" pinfunction="DO" pintype="output"/>
+      <node ref="D504" pin="3" pinfunction="DI" pintype="input"/>
+    </net>
+    <net code="7" name="Net-(D504-DO)">
+      <node ref="D504" pin="1" pinfunction="DO" pintype="output"/>
+      <node ref="D505" pin="3" pinfunction="DI" pintype="input"/>
+    </net>
+    <net code="8" name="Net-(D505-DO)">
+      <node ref="D505" pin="1" pinfunction="DO" pintype="output"/>
+      <node ref="D506" pin="3" pinfunction="DI" pintype="input"/>
+    </net>
+    <net code="9" name="Net-(D506-DO)">
+      <node ref="D506" pin="1" pinfunction="DO" pintype="output"/>
+      <node ref="D507" pin="3" pinfunction="DI" pintype="input"/>
+    </net>
+    <net code="10" name="Net-(D507-DO)">
+      <node ref="D507" pin="1" pinfunction="DO" pintype="output"/>
+      <node ref="D508" pin="3" pinfunction="DI" pintype="input"/>
+    </net>
+    <net code="11" name="Net-(D508-DO)">
+      <node ref="D508" pin="1" pinfunction="DO" pintype="output"/>
+      <node ref="J3" pin="6" pinfunction="SC" pintype="passive"/>
+    </net>
+    <net code="12" name="Net-(J1-D0)">
+      <node ref="J1" pin="10" pinfunction="D0" pintype="passive"/>
+      <node ref="Sw1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="13" name="Net-(J1-D1)">
+      <node ref="J1" pin="9" pinfunction="D1" pintype="passive"/>
+      <node ref="Sw1" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="14" name="Net-(J1-D2)">
+      <node ref="J1" pin="8" pinfunction="D2" pintype="passive"/>
+      <node ref="Sw1" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="15" name="Net-(J1-D3)">
+      <node ref="J1" pin="7" pinfunction="D3" pintype="passive"/>
+      <node ref="Sw1" pin="5" pinfunction="5" pintype="passive"/>
+    </net>
+    <net code="16" name="Net-(J1-D4)">
+      <node ref="J1" pin="6" pinfunction="D4" pintype="passive"/>
+      <node ref="Sw2" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="17" name="Net-(J1-D5)">
+      <node ref="J1" pin="5" pinfunction="D5" pintype="passive"/>
+      <node ref="Sw2" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="18" name="Net-(J1-D6)">
+      <node ref="J1" pin="4" pinfunction="D6" pintype="passive"/>
+      <node ref="Sw2" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="19" name="Net-(J1-D7)">
+      <node ref="J1" pin="3" pinfunction="D7" pintype="passive"/>
+      <node ref="Sw2" pin="5" pinfunction="5" pintype="passive"/>
+    </net>
+    <net code="20" name="unconnected-(J1-vd-Pad2)">
+      <node ref="J1" pin="2" pinfunction="vd" pintype="passive+no_connect"/>
+    </net>
+    <net code="21" name="unconnected-(J2-SD-Pad8)">
+      <node ref="J2" pin="8" pinfunction="SD" pintype="passive+no_connect"/>
+    </net>
+    <net code="22" name="unconnected-(J2-VS-Pad2)">
+      <node ref="J2" pin="2" pinfunction="VS" pintype="passive+no_connect"/>
+    </net>
+    <net code="23" name="unconnected-(J2-VS-Pad3)">
+      <node ref="J2" pin="3" pinfunction="VS" pintype="passive+no_connect"/>
+    </net>
+    <net code="24" name="unconnected-(J2-VS-Pad4)">
+      <node ref="J2" pin="4" pinfunction="VS" pintype="passive+no_connect"/>
+    </net>
+    <net code="25" name="unconnected-(J2-VS-Pad5)">
+      <node ref="J2" pin="5" pinfunction="VS" pintype="passive+no_connect"/>
+    </net>
+    <net code="26" name="unconnected-(J2-VS-Pad7)">
+      <node ref="J2" pin="7" pinfunction="VS" pintype="passive+no_connect"/>
+    </net>
+    <net code="27" name="unconnected-(J2-VS-Pad9)">
+      <node ref="J2" pin="9" pinfunction="VS" pintype="passive+no_connect"/>
+    </net>
+    <net code="28" name="unconnected-(J3-SD-Pad8)">
+      <node ref="J3" pin="8" pinfunction="SD" pintype="passive+no_connect"/>
+    </net>
+    <net code="29" name="unconnected-(J3-VS-Pad2)">
+      <node ref="J3" pin="2" pinfunction="VS" pintype="passive+no_connect"/>
+    </net>
+    <net code="30" name="unconnected-(J3-VS-Pad3)">
+      <node ref="J3" pin="3" pinfunction="VS" pintype="passive+no_connect"/>
+    </net>
+    <net code="31" name="unconnected-(J3-VS-Pad4)">
+      <node ref="J3" pin="4" pinfunction="VS" pintype="passive+no_connect"/>
+    </net>
+    <net code="32" name="unconnected-(J3-VS-Pad5)">
+      <node ref="J3" pin="5" pinfunction="VS" pintype="passive+no_connect"/>
+    </net>
+    <net code="33" name="unconnected-(J3-VS-Pad7)">
+      <node ref="J3" pin="7" pinfunction="VS" pintype="passive+no_connect"/>
+    </net>
+    <net code="34" name="unconnected-(J3-VS-Pad9)">
+      <node ref="J3" pin="9" pinfunction="VS" pintype="passive+no_connect"/>
+    </net>
+  </nets>
+</export>

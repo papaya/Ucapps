@@ -1,0 +1,7 @@
+Designator,Footprint,Quantity,Value,LCSC Part #
+"C2, C3, C4, C5",C_Disc_D3.8mm_W2.6mm_P2.50mm,4,100NF,
+"H1, H2, H3, H4",MountingHole_3.2mm_M3,4,MountingHole,
+"J1, J2",IDC-Header_2x05_P2.54mm_Vertical_ksr_TO_J8_J9,2,sin_in,
+"J3, J4, J5, J6",IDC-Header_2x05_P2.54mm_Vertical_ksr_dOUT,4,sin_in,
+"R1, R2, R3, R4",DIP-16_W7.62mm_LongPads,4,220 ohm,
+"SR1, SR2, SR3, SR4",DIP-16_W7.62mm_Socket_LongPads,4,74HC595,

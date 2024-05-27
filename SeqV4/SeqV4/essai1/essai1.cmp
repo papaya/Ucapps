@@ -1,0 +1,94 @@
+Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 19/06/2016 10:36:58
+
+BeginCmp
+TimeStamp = /5766541E;
+Reference = J1;
+ValeurCmp = STM32F4_DISCOVERY_HEADER;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /57665469;
+Reference = J5A1;
+ValeurCmp = DIL10;
+IdModule  = PIN_ARRAY_5x2;
+EndCmp
+
+BeginCmp
+TimeStamp = /576654A7;
+Reference = P1;
+ValeurCmp = DIL10;
+IdModule  = PIN_ARRAY_5x2;
+EndCmp
+
+BeginCmp
+TimeStamp = /576654B6;
+Reference = P2;
+ValeurCmp = DIL10;
+IdModule  = PIN_ARRAY_5x2;
+EndCmp
+
+BeginCmp
+TimeStamp = /576654C5;
+Reference = P3;
+ValeurCmp = DIL10;
+IdModule  = PIN_ARRAY_5x2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5766547A;
+Reference = P4;
+ValeurCmp = DIL10;
+IdModule  = PIN_ARRAY_5x2;
+EndCmp
+
+BeginCmp
+TimeStamp = /57665498;
+Reference = P5;
+ValeurCmp = DIL10;
+IdModule  = PIN_ARRAY_5x2;
+EndCmp
+
+BeginCmp
+TimeStamp = /576654D4;
+Reference = P6;
+ValeurCmp = DIL10;
+IdModule  = PIN_ARRAY_5x2;
+EndCmp
+
+BeginCmp
+TimeStamp = /57665489;
+Reference = P7;
+ValeurCmp = DIL10;
+IdModule  = PIN_ARRAY_5x2;
+EndCmp
+
+BeginCmp
+TimeStamp = /576654E3;
+Reference = P8;
+ValeurCmp = DIL10;
+IdModule  = PIN_ARRAY_5x2;
+EndCmp
+
+BeginCmp
+TimeStamp = /576654F2;
+Reference = P9;
+ValeurCmp = DIL10;
+IdModule  = PIN_ARRAY_5x2;
+EndCmp
+
+BeginCmp
+TimeStamp = /57665501;
+Reference = U1;
+ValeurCmp = 74HCT541_PWR;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /57665548;
+Reference = U2;
+ValeurCmp = 74HC595;
+IdModule  = ;
+EndCmp
+
+EndListe

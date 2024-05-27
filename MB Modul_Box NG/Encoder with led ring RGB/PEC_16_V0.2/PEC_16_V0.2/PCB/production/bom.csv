@@ -1,0 +1,6 @@
+Designator,Footprint,Quantity,Value,LCSC Part #
+"H13, H15, H17, H19",MountingHole_3.2mm_M3,4,MountingHole,
+"J14, J15",PinHeader_1x03_P2.54mm_Vertical,2,Conn_01x06_Pin,
+"J20, J21, J22, J23",PinSocket_1x06_P2.54mm_Vertical,4,Conn_01x06_Socket,
+"J24, J25",PinSocket_1x03_P2.54mm_Vertical,2,Conn_01x06_Socket,
+"SW1, SW2, SW3, SW4, SW5, SW6, SW7, SW8",PEC164120FS0012,8,PEC16-4XXXF-SXXXX,

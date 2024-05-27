@@ -1,0 +1,259 @@
+Cmp-Mod V01 Created by PcbNew   date = 30/06/2016 23:29:59
+
+BeginCmp
+TimeStamp = 5775962E
+Path = /57742986
+Reference = C1;
+ValeurCmp = C;
+IdModule  = Capacitors_ThroughHole:C_Radial_D5_L11_P2;
+EndCmp
+
+BeginCmp
+TimeStamp = 57759634
+Path = /577554A2
+Reference = C2;
+ValeurCmp = C;
+IdModule  = Capacitors_ThroughHole:C_Radial_D5_L11_P2;
+EndCmp
+
+BeginCmp
+TimeStamp = 5775963A
+Path = /5774F5F8
+Reference = D1;
+ValeurCmp = D;
+IdModule  = Diodes_ThroughHole:Diode_DO-35_SOD27_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = 57759652
+Path = /5773F62A
+Reference = IC1;
+ValeurCmp = 74HCT541_PWR;
+IdModule  = Socket_Strips:Socket_Strip_Straight_2x10;
+EndCmp
+
+BeginCmp
+TimeStamp = 57759666
+Path = /57741F17
+Reference = IC2;
+ValeurCmp = 74HC595;
+IdModule  = Socket_Strips:Socket_Strip_Straight_2x08;
+EndCmp
+
+BeginCmp
+TimeStamp = 5775966C
+Path = /5773F782
+Reference = J2;
+ValeurCmp = CONN_2;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x02;
+EndCmp
+
+BeginCmp
+TimeStamp = 5775967A
+Path = /5774AECB
+Reference = J4A1;
+ValeurCmp = CONN_02X05;
+IdModule  = Pin_Headers:Pin_Header_Straight_2x05;
+EndCmp
+
+BeginCmp
+TimeStamp = 57759688
+Path = /5774D522
+Reference = J4B1;
+ValeurCmp = CONN_02X05;
+IdModule  = Pin_Headers:Pin_Header_Straight_2x05;
+EndCmp
+
+BeginCmp
+TimeStamp = 57759696
+Path = /577496FA
+Reference = J5A1;
+ValeurCmp = CONN_02X05;
+IdModule  = Pin_Headers:Pin_Header_Straight_2x05;
+EndCmp
+
+BeginCmp
+TimeStamp = 577596A4
+Path = /5774A16E
+Reference = J5B1;
+ValeurCmp = CONN_02X05;
+IdModule  = Pin_Headers:Pin_Header_Straight_2x05;
+EndCmp
+
+BeginCmp
+TimeStamp = 577596B2
+Path = /5775125D
+Reference = J8J9;
+ValeurCmp = CONN_02X05;
+IdModule  = Pin_Headers:Pin_Header_Straight_2x05;
+EndCmp
+
+BeginCmp
+TimeStamp = 577596C0
+Path = /577403D1
+Reference = J10A1;
+ValeurCmp = CONN_02X05;
+IdModule  = Pin_Headers:Pin_Header_Straight_2x05;
+EndCmp
+
+BeginCmp
+TimeStamp = 577596CE
+Path = /57740EE1
+Reference = J10B1;
+ValeurCmp = CONN_02X05;
+IdModule  = Pin_Headers:Pin_Header_Straight_2x05;
+EndCmp
+
+BeginCmp
+TimeStamp = 577596DC
+Path = /5774AA90
+Reference = J11E1;
+ValeurCmp = CONN_02X05;
+IdModule  = Pin_Headers:Pin_Header_Straight_2x05;
+EndCmp
+
+BeginCmp
+TimeStamp = 577596F0
+Path = /577444CE
+Reference = J15A1;
+ValeurCmp = CONN_02X08;
+IdModule  = Pin_Headers:Pin_Header_Straight_2x08;
+EndCmp
+
+BeginCmp
+TimeStamp = 57759704
+Path = /577445D1
+Reference = J15B1;
+ValeurCmp = CONN_02X08;
+IdModule  = Pin_Headers:Pin_Header_Straight_2x08;
+EndCmp
+
+BeginCmp
+TimeStamp = 5775970B
+Path = /57744663
+Reference = J15S1;
+ValeurCmp = CONN_01X03;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = 57759719
+Path = /5774DD4B
+Reference = J16;
+ValeurCmp = CONN_02X05;
+IdModule  = Pin_Headers:Pin_Header_Straight_2x05;
+EndCmp
+
+BeginCmp
+TimeStamp = 5775971F
+Path = /577790B5
+Reference = J17;
+ValeurCmp = CONN_01X02;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x02;
+EndCmp
+
+BeginCmp
+TimeStamp = 57759725
+Path = /5774EEC3
+Reference = J18;
+ValeurCmp = CONN_2;
+IdModule  = Pin_Headers:Pin_Header_Angled_1x02;
+EndCmp
+
+BeginCmp
+TimeStamp = 57759733
+Path = /57752616
+Reference = J19;
+ValeurCmp = CONN_02X05;
+IdModule  = Pin_Headers:Pin_Header_Straight_2x05;
+EndCmp
+
+BeginCmp
+TimeStamp = 57759774
+Path = /57742CE6
+Reference = R33;
+ValeurCmp = R-SIL_4;
+IdModule  = w_pth_resistors:r-sil_5;
+EndCmp
+
+BeginCmp
+TimeStamp = 5775977B
+Path = /57758AAC
+Reference = T1;
+ValeurCmp = BC817-40;
+IdModule  = Transistors_OldSowjetAera:OldSowjetaera_Transistor_Type-II_BigPads;
+EndCmp
+
+BeginCmp
+TimeStamp = 57759747
+Path = /5774F396
+Reference = R1;
+ValeurCmp = R;
+IdModule  = Discret:R4-5;
+EndCmp
+
+BeginCmp
+TimeStamp = 57759753
+Path = /5774BEBF
+Reference = R3;
+ValeurCmp = R;
+IdModule  = Discret:R4-5;
+EndCmp
+
+BeginCmp
+TimeStamp = 5775975F
+Path = /5774D548
+Reference = R5;
+ValeurCmp = R;
+IdModule  = Discret:R4-5;
+EndCmp
+
+BeginCmp
+TimeStamp = 5775976B
+Path = /5775842E
+Reference = R13;
+ValeurCmp = R;
+IdModule  = Discret:R4-5;
+EndCmp
+
+BeginCmp
+TimeStamp = 57759759
+Path = /5774D542
+Reference = R4;
+ValeurCmp = R;
+IdModule  = Discret:R4-5;
+EndCmp
+
+BeginCmp
+TimeStamp = 5775974D
+Path = /5774B8C6
+Reference = R2;
+ValeurCmp = R;
+IdModule  = Discret:R4-5;
+EndCmp
+
+BeginCmp
+TimeStamp = 57759765
+Path = /577582A7
+Reference = R12;
+ValeurCmp = R;
+IdModule  = Discret:R4-5;
+EndCmp
+
+BeginCmp
+TimeStamp = 57759741
+Path = /57744B4D
+Reference = p2;
+ValeurCmp = POT;
+IdModule  = Potentiometers:Potentiometer_VishaySpectrol-Econtrim-Type36T;
+EndCmp
+
+BeginCmp
+TimeStamp = 5775973A
+Path = /57759134
+Reference = p1;
+ValeurCmp = POT;
+IdModule  = Potentiometers:Potentiometer_VishaySpectrol-Econtrim-Type36T;
+EndCmp
+
+EndListe

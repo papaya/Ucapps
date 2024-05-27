@@ -1,0 +1,11 @@
+### Footprint positions - created on Fri May 19 10:02:54 2023 ###
+### Printed by KiCad version (7.0.0)
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val                               Package                                PosX       PosY       Rot  Side
+J1        IDC-Header_2x05_P2.54mm_Vertical  IDC-Header_2x05_P2.54mm_Vertical    55.0800    23.7475   90.0000  bottom
+J2        IDC-Header_2x05_P2.54mm_Vertical  IDC-Header_2x05_P2.54mm_Vertical    30.0800    23.8000   90.0000  bottom
+J3        IDC-Header_2x05_P2.54mm_Vertical  IDC-Header_2x05_P2.54mm_Vertical    80.1000    23.7475   90.0000  bottom
+J4        Conn_01x06_Socket                 PinSocket_1x03_P2.54mm_Vertical      1.7500   -27.5400    0.0000  bottom
+J5        Conn_01x06_Socket                 PinSocket_1x03_P2.54mm_Vertical     98.2500   -27.5400    0.0000  bottom
+## End

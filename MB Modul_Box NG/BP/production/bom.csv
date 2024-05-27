@@ -1,0 +1,12 @@
+Designator,Footprint,Quantity,Value,LCSC Part #
+"D1, D2, D3, D4, D5, D6, D7, D8",LED Switch mec,8,LED,
+ENC1,EC12E24204A8,1,MENU,
+"H1_3, H1_2, H1, H2_3, H2_2, H2, H3_3, H3_2, H3, H4_3, H4_2, H4",MountingHole_3.2mm_M3,12,MountingHole,
+"J1, J2_2, J2",IDC-Header_2x05_P2.54mm_Vertical,3,IDC-Header_2x05_P2.54mm_Vertical,
+"SW1, SW2, SW3, SW4, SW5, SW6, SW7, SW8",switch_led_mec,8,SWITCH led,
+SWc1,124110828,1,shift,
+SWc2,124110828,1,soft4,
+SWc3,124110828,1,soft 3,
+SWc4,124110828,1,soft 2,
+SWc5,124110828,1,soft 1,
+SWc6,124110828,1,MENU,

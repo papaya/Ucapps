@@ -1,0 +1,8 @@
+Designator,Footprint,Quantity,Value,LCSC Part #
+C501,0402,1,100nf,C1525
+"C502, C503, C504, C505, C506, C507, C508",CAPC1005X55N,7,100nf,C1525
+"D501, D502, D503, D504, D505, D506, D507, D508",LED_WS2812B-2020_PLCC4_2.0x2.0mm,8,WS2812-2020,C2976072
+"H1, H2, H3, H4, H5, H6, H7, H8",MountingHole_2.2mm_M2,8,MountingHole,
+"H11, H12, H13, H14, H15, H16, H17, H18",MountingHole_3mm,8,MountingHole,
+"J1, J2, J3",IDC-Header_2x05_P2.54mm_Vertical,3,IDC-Header_2x05_P2.54mm_Vertical,
+"Sw1, Sw2",Pad x 4,2,Pad_x_4,

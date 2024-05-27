@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>C:/Users/fil/Dropbox/DIY/seq V4 midibox/midi/midi v3.sch</source>
+    <date>28/06/2016 22:45:40</date>
+    <tool>Eeschema 4.0.2-stable</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date>28 jun 2016</date>
+        <source>midi v3.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="IC1">
+      <value>6N138</value>
+      <footprint>Opto-Devices:Optocoupler_6pin_wide_Stile-I</footprint>
+      <libsource lib="w_opto" part="6N138"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5772D759</tstamp>
+    </comp>
+    <comp ref="R2">
+      <value>R</value>
+      <footprint>Resistors_ThroughHole:Resistor_Horizontal_RM15mm</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5772D75A</tstamp>
+    </comp>
+    <comp ref="R1">
+      <value>R</value>
+      <footprint>Resistors_ThroughHole:Resistor_Horizontal_RM15mm</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5772D75B</tstamp>
+    </comp>
+    <comp ref="R5">
+      <value>R</value>
+      <footprint>Resistors_ThroughHole:Resistor_Horizontal_RM15mm</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5772D762</tstamp>
+    </comp>
+    <comp ref="D1">
+      <value>1N4148</value>
+      <footprint>Resistors_ThroughHole:Resistor_Horizontal_RM15mm</footprint>
+      <libsource lib="Carlolib-disc" part="1N4148"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5772D763</tstamp>
+    </comp>
+    <comp ref="midiIN1">
+      <value>LEMO5</value>
+      <footprint>MK_5pins_conn:DIN_5</footprint>
+      <libsource lib="conn" part="LEMO5"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5772D764</tstamp>
+    </comp>
+    <comp ref="IC2">
+      <value>6N138</value>
+      <footprint>Opto-Devices:Optocoupler_6pin_wide_Stile-I</footprint>
+      <libsource lib="w_opto" part="6N138"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5772D766</tstamp>
+    </comp>
+    <comp ref="R4">
+      <value>R</value>
+      <footprint>Resistors_ThroughHole:Resistor_Horizontal_RM15mm</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5772D767</tstamp>
+    </comp>
+    <comp ref="R3">
+      <value>R</value>
+      <footprint>Resistors_ThroughHole:Resistor_Horizontal_RM15mm</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5772D768</tstamp>
+    </comp>
+    <comp ref="R8">
+      <value>R</value>
+      <footprint>Resistors_ThroughHole:Resistor_Horizontal_RM15mm</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5772D76D</tstamp>
+    </comp>
+    <comp ref="D2">
+      <value>1N4148</value>
+      <footprint>Resistors_ThroughHole:Resistor_Horizontal_RM15mm</footprint>
+      <libsource lib="Carlolib-disc" part="1N4148"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5772D76E</tstamp>
+    </comp>
+    <comp ref="midiIN2">
+      <value>LEMO5</value>
+      <footprint>MK_5pins_conn:DIN_5</footprint>
+      <libsource lib="conn" part="LEMO5"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5772D76F</tstamp>
+    </comp>
+    <comp ref="R7">
+      <value>R</value>
+      <footprint>Resistors_ThroughHole:Resistor_Horizontal_RM15mm</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5772D770</tstamp>
+    </comp>
+    <comp ref="midiOUT1">
+      <value>LEMO5</value>
+      <footprint>MK_5pins_conn:DIN_5</footprint>
+      <libsource lib="conn" part="LEMO5"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5772D771</tstamp>
+    </comp>
+    <comp ref="R6">
+      <value>R</value>
+      <footprint>Resistors_ThroughHole:Resistor_Horizontal_RM15mm</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5772D772</tstamp>
+    </comp>
+    <comp ref="R10">
+      <value>R</value>
+      <footprint>Resistors_ThroughHole:Resistor_Horizontal_RM15mm</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5772D777</tstamp>
+    </comp>
+    <comp ref="midiOUT2">
+      <value>LEMO5</value>
+      <footprint>MK_5pins_conn:DIN_5</footprint>
+      <libsource lib="conn" part="LEMO5"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5772D778</tstamp>
+    </comp>
+    <comp ref="R9">
+      <value>R</value>
+      <footprint>Resistors_ThroughHole:Resistor_Horizontal_RM15mm</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5772D779</tstamp>
+    </comp>
+    <comp ref="P1">
+      <value>CONN_02X05</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_2x05</footprint>
+      <libsource lib="conn" part="CONN_02X05"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5772E6F0</tstamp>
+    </comp>
+    <comp ref="P2">
+      <value>CONN_02X05</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_2x05</footprint>
+      <libsource lib="conn" part="CONN_02X05"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5772EB15</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Carlolib-disc" part="1N4148">
+      <footprints>
+        <fp>DO35-4</fp>
+        <fp>DO35-5</fp>
+        <fp>DO35-V</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">1N4148</field>
+        <field name="Footprint">DO35</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="C" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="w_opto" part="6N138">
+      <description>Single channel, High Speed Optocouplers</description>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">6N138</field>
+      </fields>
+      <pins>
+        <pin num="2" name="A" type="passive"/>
+        <pin num="3" name="K" type="passive"/>
+        <pin num="5" name="GND" type="passive"/>
+        <pin num="6" name="Vo" type="passive"/>
+        <pin num="7" name="Vb" type="passive"/>
+        <pin num="8" name="Vcc" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="conn" part="CONN_02X05">
+      <description>Connector 02x05</description>
+      <footprints>
+        <fp>Pin_Header_Straight_2X05</fp>
+        <fp>Pin_Header_Angled_2X05</fp>
+        <fp>Socket_Strip_Straight_2X05</fp>
+        <fp>Socket_Strip_Angled_2X05</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Value">CONN_02X05</field>
+      </fields>
+      <pins>
+        <pin num="1" name="P1" type="passive"/>
+        <pin num="2" name="P2" type="passive"/>
+        <pin num="3" name="P3" type="passive"/>
+        <pin num="4" name="P4" type="passive"/>
+        <pin num="5" name="P5" type="passive"/>
+        <pin num="6" name="P6" type="passive"/>
+        <pin num="7" name="P7" type="passive"/>
+        <pin num="8" name="P8" type="passive"/>
+        <pin num="9" name="P9" type="passive"/>
+        <pin num="10" name="P10" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="conn" part="LEMO5">
+      <fields>
+        <field name="Reference">K</field>
+        <field name="Value">LEMO5</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="BiDi"/>
+        <pin num="2" name="~" type="BiDi"/>
+        <pin num="3" name="~" type="BiDi"/>
+        <pin num="4" name="~" type="BiDi"/>
+        <pin num="5" name="~" type="BiDi"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="R">
+      <description>Resistor</description>
+      <footprints>
+        <fp>R_*</fp>
+        <fp>Resistor_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="device">
+      <uri>C:\Program Files\KiCad\share\kicad\library\device.lib</uri>
+    </library>
+    <library logical="w_opto">
+      <uri>C:\Users\fil\Downloads\lib_w_opto\w_opto.lib</uri>
+    </library>
+    <library logical="Carlolib-disc">
+      <uri>C:\Users\fil\Downloads\carlo-disc.lib\Carlolib-disc.lib</uri>
+    </library>
+    <library logical="conn">
+      <uri>C:\Program Files\KiCad\share\kicad\library\conn.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="Net-(R9-Pad1)">
+      <node ref="R9" pin="1"/>
+      <node ref="midiOUT2" pin="5"/>
+    </net>
+    <net code="2" name="Net-(midiOUT2-Pad1)">
+      <node ref="midiOUT2" pin="1"/>
+    </net>
+    <net code="3" name="Net-(R10-Pad1)">
+      <node ref="midiOUT2" pin="2"/>
+      <node ref="R10" pin="1"/>
+    </net>
+    <net code="4" name="Net-(midiOUT2-Pad3)">
+      <node ref="midiOUT2" pin="3"/>
+    </net>
+    <net code="5" name="Net-(midiOUT2-Pad4)">
+      <node ref="midiOUT2" pin="4"/>
+    </net>
+    <net code="6" name="+5V">
+      <node ref="P2" pin="2"/>
+      <node ref="P1" pin="2"/>
+      <node ref="IC1" pin="8"/>
+      <node ref="R1" pin="1"/>
+      <node ref="R7" pin="2"/>
+      <node ref="R3" pin="1"/>
+      <node ref="IC2" pin="8"/>
+      <node ref="R10" pin="2"/>
+    </net>
+    <net code="7" name="Net-(P1-Pad10)">
+      <node ref="P2" pin="8"/>
+      <node ref="P1" pin="10"/>
+    </net>
+    <net code="8" name="Net-(P1-Pad6)">
+      <node ref="P1" pin="6"/>
+      <node ref="P2" pin="4"/>
+    </net>
+    <net code="9" name="Net-(P1-Pad9)">
+      <node ref="P1" pin="9"/>
+      <node ref="P2" pin="7"/>
+    </net>
+    <net code="10" name="Net-(P1-Pad7)">
+      <node ref="R9" pin="2"/>
+      <node ref="P2" pin="9"/>
+      <node ref="P1" pin="7"/>
+    </net>
+    <net code="11" name="Net-(P1-Pad5)">
+      <node ref="P2" pin="3"/>
+      <node ref="P1" pin="5"/>
+    </net>
+    <net code="12" name="GND">
+      <node ref="IC2" pin="5"/>
+      <node ref="R4" pin="2"/>
+      <node ref="P1" pin="1"/>
+      <node ref="R2" pin="2"/>
+      <node ref="IC1" pin="5"/>
+      <node ref="P2" pin="1"/>
+    </net>
+    <net code="13" name="Net-(P1-Pad8)">
+      <node ref="R6" pin="2"/>
+      <node ref="P1" pin="8"/>
+      <node ref="P2" pin="10"/>
+    </net>
+    <net code="14" name="Net-(midiOUT1-Pad1)">
+      <node ref="midiOUT1" pin="1"/>
+    </net>
+    <net code="15" name="Net-(midiIN2-Pad1)">
+      <node ref="midiIN2" pin="1"/>
+    </net>
+    <net code="16" name="Net-(midiIN2-Pad3)">
+      <node ref="midiIN2" pin="3"/>
+    </net>
+    <net code="17" name="Net-(midiIN2-Pad4)">
+      <node ref="midiIN2" pin="4"/>
+    </net>
+    <net code="18" name="Net-(midiOUT1-Pad3)">
+      <node ref="midiOUT1" pin="3"/>
+    </net>
+    <net code="19" name="Net-(midiOUT1-Pad4)">
+      <node ref="midiOUT1" pin="4"/>
+    </net>
+    <net code="20" name="Net-(midiIN1-Pad4)">
+      <node ref="midiIN1" pin="4"/>
+    </net>
+    <net code="21" name="Net-(midiIN1-Pad1)">
+      <node ref="midiIN1" pin="1"/>
+    </net>
+    <net code="22" name="Net-(midiIN1-Pad3)">
+      <node ref="midiIN1" pin="3"/>
+    </net>
+    <net code="23" name="Net-(IC2-Pad6)">
+      <node ref="IC2" pin="6"/>
+      <node ref="R3" pin="2"/>
+      <node ref="P2" pin="5"/>
+      <node ref="P1" pin="3"/>
+    </net>
+    <net code="24" name="Net-(IC2-Pad7)">
+      <node ref="R4" pin="1"/>
+      <node ref="IC2" pin="7"/>
+    </net>
+    <net code="25" name="Net-(R8-Pad1)">
+      <node ref="midiIN2" pin="2"/>
+      <node ref="R8" pin="1"/>
+    </net>
+    <net code="26" name="Net-(D2-Pad1)">
+      <node ref="D2" pin="1"/>
+      <node ref="IC2" pin="3"/>
+      <node ref="midiIN2" pin="5"/>
+    </net>
+    <net code="27" name="Net-(R7-Pad1)">
+      <node ref="midiOUT1" pin="2"/>
+      <node ref="R7" pin="1"/>
+    </net>
+    <net code="28" name="Net-(IC1-Pad6)">
+      <node ref="P1" pin="4"/>
+      <node ref="P2" pin="6"/>
+      <node ref="R1" pin="2"/>
+      <node ref="IC1" pin="6"/>
+    </net>
+    <net code="29" name="Net-(IC1-Pad7)">
+      <node ref="IC1" pin="7"/>
+      <node ref="R2" pin="1"/>
+    </net>
+    <net code="30" name="Net-(R6-Pad1)">
+      <node ref="R6" pin="1"/>
+      <node ref="midiOUT1" pin="5"/>
+    </net>
+    <net code="31" name="Net-(R5-Pad1)">
+      <node ref="midiIN1" pin="2"/>
+      <node ref="R5" pin="1"/>
+    </net>
+    <net code="32" name="Net-(D1-Pad1)">
+      <node ref="midiIN1" pin="5"/>
+      <node ref="IC1" pin="3"/>
+      <node ref="D1" pin="1"/>
+    </net>
+    <net code="33" name="Net-(D2-Pad2)">
+      <node ref="D2" pin="2"/>
+      <node ref="R8" pin="2"/>
+      <node ref="IC2" pin="2"/>
+    </net>
+    <net code="34" name="Net-(D1-Pad2)">
+      <node ref="IC1" pin="2"/>
+      <node ref="R5" pin="2"/>
+      <node ref="D1" pin="2"/>
+    </net>
+  </nets>
+</export>

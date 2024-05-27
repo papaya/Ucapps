@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>D:\00_Samples_VST_FLP\DIY\MODULBOX\2023\KICAD 7\POTS\Horizontal\Pot.kicad_sch</source>
+    <date>26/03/2023 10:43:21</date>
+    <tool>Eeschema (7.0.0)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>Pot 4 x 2 </title>
+        <company/>
+        <rev/>
+        <date>2023-02-12</date>
+        <source>Pot.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="H1">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Pot.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole without connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>799f6c74-9526-49f6-9d5c-275452f29e51</tstamps>
+    </comp>
+    <comp ref="H2">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Pot.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole without connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>14170c82-817e-4b57-89d1-d9fd843d6d17</tstamps>
+    </comp>
+    <comp ref="H3">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Pot.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole without connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f338051e-f505-4e23-902e-460e66094ad8</tstamps>
+    </comp>
+    <comp ref="H4">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Pot.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole without connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2d0b670b-08db-4be8-ac73-bacc7f8dee30</tstamps>
+    </comp>
+    <comp ref="H5">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Pot.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole without connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3f678b25-5047-4393-a8f8-9ae47989612f</tstamps>
+    </comp>
+    <comp ref="H6">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Pot.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole without connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4af35f47-ef0c-405b-a389-19386ab3c177</tstamps>
+    </comp>
+    <comp ref="H7">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Pot.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole without connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1ec18c55-b9ca-49a1-ab5e-7284081e8bad</tstamps>
+    </comp>
+    <comp ref="H8">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Pot.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole without connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4c201107-2e53-443f-ab91-78bfb26ba16b</tstamps>
+    </comp>
+    <comp ref="H9">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Pot.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole without connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e190282e-4529-4cc2-ad78-e63bce51d9c3</tstamps>
+    </comp>
+    <comp ref="H10">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Pot.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole without connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5045ff00-449f-45d6-a702-b6e151eebebc</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>IDC-Header_2x05_P2.54mm_Vertical</value>
+      <footprint>Connector_IDC:IDC-Header_2x05_P2.54mm_Vertical</footprint>
+      <libsource lib="ksir_2023" part="IDC-Header_2x05_P2.54mm_Vertical" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Pot.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bf089c1a-3d6b-4577-ab3d-b8d56cedbc1a</tstamps>
+    </comp>
+    <comp ref="pot1">
+      <value>POTA</value>
+      <footprint>ksir 2022:RK09L and RK09D</footprint>
+      <libsource lib="midibox-rescue" part="POTA" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Pot.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4f4093fe-f4c7-4eae-9399-4dd11bcef7f8</tstamps>
+    </comp>
+    <comp ref="pot2">
+      <value>POTA</value>
+      <footprint>ksir 2022:RK09L and RK09D</footprint>
+      <libsource lib="midibox-rescue" part="POTA" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Pot.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4845e8d9-61ce-4d5b-a6bb-5682abe0e835</tstamps>
+    </comp>
+    <comp ref="pot3">
+      <value>POTA</value>
+      <footprint>ksir 2022:RK09L and RK09D</footprint>
+      <libsource lib="midibox-rescue" part="POTA" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Pot.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c6899b98-5fde-4331-a3ed-31db4e2c1ed9</tstamps>
+    </comp>
+    <comp ref="pot4">
+      <value>POTA</value>
+      <footprint>ksir 2022:RK09L and RK09D</footprint>
+      <libsource lib="midibox-rescue" part="POTA" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Pot.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5d947672-e6d8-4aea-b838-5b5cc994aa56</tstamps>
+    </comp>
+    <comp ref="pot5">
+      <value>POTA</value>
+      <footprint>ksir 2022:RK09L and RK09D</footprint>
+      <libsource lib="midibox-rescue" part="POTA" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Pot.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>be542b40-034a-4a8d-ad8e-1d0e8589212a</tstamps>
+    </comp>
+    <comp ref="pot6">
+      <value>POTA</value>
+      <footprint>ksir 2022:RK09L and RK09D</footprint>
+      <libsource lib="midibox-rescue" part="POTA" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Pot.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8a6b147e-d3bb-4359-9c85-8890c26b68ec</tstamps>
+    </comp>
+    <comp ref="pot7">
+      <value>POTA</value>
+      <footprint>ksir 2022:RK09L and RK09D</footprint>
+      <libsource lib="midibox-rescue" part="POTA" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Pot.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d8ca3208-5752-48d5-9196-dee836dd5bca</tstamps>
+    </comp>
+    <comp ref="pot8">
+      <value>POTA</value>
+      <footprint>ksir 2022:RK09L and RK09D</footprint>
+      <libsource lib="midibox-rescue" part="POTA" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Pot.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ecfd0ff1-f4ea-45f9-81bc-a6719f0c3b13</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Mechanical" part="MountingHole">
+      <description>Mounting Hole without connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole</field>
+        <field name="Datasheet">~</field>
+      </fields>
+    </libpart>
+    <libpart lib="ksir_2023" part="IDC-Header_2x05_P2.54mm_Vertical">
+      <fields>
+        <field name="Reference">J*</field>
+        <field name="Value">IDC-Header_2x05_P2.54mm_Vertical</field>
+        <field name="Footprint">Connector_IDC:IDC-Header_2x05_P2.54mm_Vertical</field>
+      </fields>
+      <pins>
+        <pin num="1" name="vss" type="passive"/>
+        <pin num="2" name="vd" type="passive"/>
+        <pin num="3" name="A7" type="passive"/>
+        <pin num="4" name="A6" type="passive"/>
+        <pin num="5" name="A5" type="passive"/>
+        <pin num="6" name="A4" type="passive"/>
+        <pin num="7" name="A3" type="passive"/>
+        <pin num="8" name="A2" type="passive"/>
+        <pin num="9" name="A1" type="passive"/>
+        <pin num="10" name="A0" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="midibox-rescue" part="POTA">
+      <fields>
+        <field name="Reference">pot</field>
+        <field name="Value">POTA</field>
+      </fields>
+      <pins>
+        <pin num="1" name="vss_masse" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="vd" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Mechanical">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Mechanical.kicad_sym</uri>
+    </library>
+    <library logical="ksir_2023">
+      <uri>D:/00_Samples_VST_FLP/DIY/MODULBOX/2023/Lib_kicad/ksir_2023.kicad_sym</uri>
+    </library>
+    <library logical="midibox-rescue">
+      <uri>D:/00_Samples_VST_FLP/DIY/MODULBOX/2023/Lib_kicad/midibox-rescue.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+3V0">
+      <node ref="J1" pin="2" pinfunction="vd" pintype="passive"/>
+      <node ref="pot1" pin="3" pinfunction="vd" pintype="passive"/>
+      <node ref="pot2" pin="3" pinfunction="vd" pintype="passive"/>
+      <node ref="pot3" pin="3" pinfunction="vd" pintype="passive"/>
+      <node ref="pot4" pin="3" pinfunction="vd" pintype="passive"/>
+      <node ref="pot5" pin="3" pinfunction="vd" pintype="passive"/>
+      <node ref="pot6" pin="3" pinfunction="vd" pintype="passive"/>
+      <node ref="pot7" pin="3" pinfunction="vd" pintype="passive"/>
+      <node ref="pot8" pin="3" pinfunction="vd" pintype="passive"/>
+    </net>
+    <net code="2" name="GND">
+      <node ref="J1" pin="1" pinfunction="vss" pintype="passive"/>
+      <node ref="pot1" pin="1" pinfunction="vss_masse" pintype="passive"/>
+      <node ref="pot2" pin="1" pinfunction="vss_masse" pintype="passive"/>
+      <node ref="pot3" pin="1" pinfunction="vss_masse" pintype="passive"/>
+      <node ref="pot4" pin="1" pinfunction="vss_masse" pintype="passive"/>
+      <node ref="pot5" pin="1" pinfunction="vss_masse" pintype="passive"/>
+      <node ref="pot6" pin="1" pinfunction="vss_masse" pintype="passive"/>
+      <node ref="pot7" pin="1" pinfunction="vss_masse" pintype="passive"/>
+      <node ref="pot8" pin="1" pinfunction="vss_masse" pintype="passive"/>
+    </net>
+    <net code="3" name="Net-(J1-A0)">
+      <node ref="J1" pin="10" pinfunction="A0" pintype="passive"/>
+      <node ref="pot1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="4" name="Net-(J1-A1)">
+      <node ref="J1" pin="9" pinfunction="A1" pintype="passive"/>
+      <node ref="pot2" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="5" name="Net-(J1-A2)">
+      <node ref="J1" pin="8" pinfunction="A2" pintype="passive"/>
+      <node ref="pot3" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="6" name="Net-(J1-A3)">
+      <node ref="J1" pin="7" pinfunction="A3" pintype="passive"/>
+      <node ref="pot4" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="7" name="Net-(J1-A4)">
+      <node ref="J1" pin="6" pinfunction="A4" pintype="passive"/>
+      <node ref="pot5" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="8" name="Net-(J1-A5)">
+      <node ref="J1" pin="5" pinfunction="A5" pintype="passive"/>
+      <node ref="pot6" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="9" name="Net-(J1-A6)">
+      <node ref="J1" pin="4" pinfunction="A6" pintype="passive"/>
+      <node ref="pot7" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="10" name="Net-(J1-A7)">
+      <node ref="J1" pin="3" pinfunction="A7" pintype="passive"/>
+      <node ref="pot8" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+  </nets>
+</export>

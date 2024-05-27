@@ -1,0 +1,6 @@
+Designator,Footprint,Quantity,Value,LCSC Part #
+"J1, J28, J29",TerminalBlock_Altech_AK300-2_P5.00mm,3,Input,
+"J10, J11, J12, J13, J14, J15, J16, J17, J18, J19, J2, J20, J21, J22, J23, J24, J25, J3, J4, J5, J6, J7, J8, J9",IDC-Header_2x05_P2.54mm_Vertical,24,IDC-Header_2x05_P2.54mm_Vertical,
+"J26, J30, J31",PinHeader_1x02_P2.54mm_Vertical,3,Input,
+J27,TerminalBlock_Altech_AK300-2_P5.00mm,1,Output,
+J32,PinHeader_1x02_P2.54mm_Vertical,1,Disconect,

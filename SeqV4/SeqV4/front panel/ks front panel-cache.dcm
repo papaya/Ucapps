@@ -1,0 +1,18 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 5x10k
+D 8 resistors Pack
+K R DEV
+$ENDCMP
+#
+$CMP RR6
+D 8 resistors
+K R DEV
+$ENDCMP
+#
+$CMP RR8
+D 8 resistors
+K R DEV
+$ENDCMP
+#
+#End Doc Library

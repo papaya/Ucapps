@@ -1,0 +1,315 @@
+@import url("//fonts.googleapis.com/css?family=Varela+Round");
+
+body {
+  background-color: #f7f7f7;
+  background-image: url(https://images.bigcartel.com/theme_images/11072185/bg.jpg);
+  background-position: 50% 0;
+  background-repeat: repeat;
+  color: #000000;
+  font-family: "Varela Round", sans-serif;
+  font-size: 15px;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+a {
+  color: #000000;
+}
+
+a:hover {
+  color: #444444;
+}
+
+#wrapper {
+  padding-top: 0;
+  margin-bottom: 60px;
+  padding-bottom: 60px;
+  padding-bottom: 0;
+}
+
+/* @group title */
+
+.header_image {
+  color: #000000;
+  font-family: "Varela Round", sans-serif;
+  font-size: 42px;
+  font-weight: normal;
+  margin-bottom: 60px;
+  margin-top: 60px;
+  text-align: center;
+  text-transform: uppercase;
+  text-indent: 0;
+  width: 530px;
+  width: 900px;
+}
+
+.header_image:hover {
+  color: #2c2c2c;
+}
+
+.header_image img {
+  max-width: 100%;
+}
+
+header {
+  background-color: #ffffff;
+  border-bottom-color: #e5e5e5;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  color: #000000;
+  font-size: 15px;
+  padding-bottom: 30px;
+  padding-top: 30px;
+}
+
+header h2 {
+  font-size: 24px;
+  color: #000000;
+}
+
+/* @end */
+
+/* @group content */
+
+.content {
+  background-color: #ffffff;
+  border-color: transparent;
+  border-width: 0;
+  -moz-border-radius: 0;-o-border-radius: 0;-webkit-border-radius: 0;border-radius: 0;
+  width: 530px;
+}
+
+.content section {
+  background-color: #ffffff;
+  border-bottom-color: #e5e5e5;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  padding-bottom: 30px;
+  padding-left: 0;
+  padding-right: 0;
+  padding-top: 30px;
+}
+
+
+
+.buyer_details,
+.paypal_email {
+  font-size: 13px;
+}
+
+.content section.products,
+.content section.return_link {
+  border-bottom: none;
+}
+
+.content section.return_link {
+  background-color: #ffffff;
+}
+
+
+.content {
+  border-bottom-color: transparent;
+  border-bottom-width: 0;
+  border-top-color: transparent;
+  border-top-width: 0;
+  width: 100%;
+}
+
+header,
+.section {
+  margin: 0 auto;
+  width: 530px;
+}
+
+
+.shipping_name,
+.payment_total {
+  color: #000000;
+}
+
+/* @end */
+
+/* @group summary */
+
+section.summary table tr {
+  border-bottom-color: #e5e5e5;
+  border-bottom-width: 1px;
+  border-style: solid;
+  color: #000000;
+
+}
+
+section.summary table tr i,
+section.summary table tr td.price,
+section.summary .receipt i {
+  color: #000000;
+}
+
+section.summary .receipt .total {
+  border-top-color: #e5e5e5;
+  border-top-width: 2px;
+  border-style: solid;
+}
+
+section.summary table tr td,
+section.summary .receipt {
+  font-size: 13px;
+}
+
+.content section.summary .note {
+  border-top-color: #e5e5e5;
+  border-top-width: 1px;
+}
+
+section.summary .note h3 {
+  font-size: 13px;
+  color: #000000;
+}
+
+section.summary .note p {
+  font-size: 13px;
+  color: #000000;
+}
+
+/* @end */
+
+/* @group buttons */
+
+section.return_link a {
+  background-color: #ffffff;
+  border-color: #000000;
+  -moz-border-radius: 0;-o-border-radius: 0;-webkit-border-radius: 0;border-radius: 0;
+  border-width: 2px;
+  border-style: solid;
+  color: #000000;
+  font-family: Helvetica, Arial;
+  font-size: 14px;
+  font-weight: normal;
+  height: 47px;
+  line-height: 47px;
+  text-transform: uppercase;
+}
+
+section.return_link a:hover {
+  background-color: #ffffff;
+  border-color: #777777;
+  color: #777777;
+}
+
+/* @end */
+
+/* @group footer */
+
+footer {
+  margin-bottom: 60px;
+  margin-top: 60px;
+  line-height: 42px;
+}
+
+/* @end */
+
+/* @group media queries */
+
+.mobile_only {
+  display: none;
+}
+
+.desktop_only {
+  display: block;
+}
+
+@media screen and (max-width: 556.5px) {
+
+  .mobile_only {
+    display: block;
+  }
+
+  .desktop_only {
+    display: none;
+  }
+
+  .header_image {
+    width: 100%;
+  }
+
+  .content {
+    border-left: none;
+    border-right: none;
+    width: 100%;
+    border-bottom-width: 0;
+    border-bottom-color: transparent;
+  }
+
+  .content .section,
+  .content section {
+    padding: 20px;
+  }
+
+
+   header,
+  .section,
+  section {
+    width: auto;
+  }
+
+
+  .buyer_details {
+    float: none;
+  }
+
+  .buyer_total {
+    display: inline-block;
+    float: none;
+    margin-bottom: 10px;
+    text-align: left;
+    width: 100%;
+  }
+
+  .buyer_total:after {
+    content: ".";
+    display: block;
+    clear: both;
+    visibility: hidden;
+    line-height: 0;
+    height: 0;
+  }
+
+  .payment_total {
+    float: none;
+    font-size: 24px;
+    line-height: 24px;
+  }
+
+  #payment {
+    float: none;
+    line-height: 24px;
+  }
+
+  .paypal {
+    display: block;
+    float: none;
+    margin-bottom: 5px;
+    margin-left: 0;
+    margin-right: 15px;
+  }
+
+  .paypal_email {
+    display: block;
+    float: none;
+    max-width: 100%;
+  }
+
+  .card_type {
+    float: left;
+    margin-left: 0;
+    margin-right: 8px;
+  }
+
+  footer {
+    width: 100%
+  }
+
+}
+
+
+/* @end */

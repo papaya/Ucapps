@@ -1,0 +1,4 @@
+Designator,Footprint,Quantity,Value,LCSC Part #
+"H1, H3, H4, eeee1",MountingHole_2.2mm_M2,4,MountingHole,
+J1,PinHeader_2x04_P2.54mm_Vertical,1,~,
+OLED1,oled-OLED_STANDARD,1,OLED,
